@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/lexyy11/fffadab1-2e24-4999-9bd1-61c98514fd47/10e4ee01-0a23-4c2b-bd87-af9357a14423/_apis/work/boardbadge/386a8c77-8b22-4e81-84a4-c173294dd8d3)](https://dev.azure.com/lexyy11/fffadab1-2e24-4999-9bd1-61c98514fd47/_boards/board/t/10e4ee01-0a23-4c2b-bd87-af9357a14423/Microsoft.RequirementCategory)
 # Azure Kubernetes Service with Azure DevOps and Terraform 
 
 [![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform-bestseller.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
